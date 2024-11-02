@@ -14,5 +14,5 @@ tools or frameworks, like SASS, Tailwind, etc.
 
 ### Author
 
-Frontend Mentor - [https://www.frontendmentor.io/profile/TheSecondChance]
-GitHub - [https://github.com/TheSecondChance]
+Frontend Mentor - [https://www.frontendmentor.io/profile/TheSecondChance]  
+Eyasu Sintayehu: [GitHub](https://github.com/TheSecondChance)
